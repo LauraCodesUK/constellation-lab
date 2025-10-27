@@ -23,8 +23,8 @@ A living index of my learning projects — documenting progress across Python, d
 ---
 
 ## 🧭 Reflection Log
-- [2025-10-27: Building my first GitHub project]([notes/2025-10-27.md](notes/2025-10-27-first-repo-setup.md)
-- [2025-10-28: Understanding branching and repo structure](notes/2025-10-28.md)
+- [2025-10-27: Building my first GitHub project](notes/2025-10-27-first-repo-setup.md)
+  
 
 ---
 
